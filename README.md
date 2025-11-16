@@ -8,7 +8,7 @@ As self-employment (RootPixel Design), I build and maintain robust, scalable and
 
 🛠️ **Technical Stack:**
 * PHP (I use v8.4)
-* Laravel (currently I use v12 in my new projects)
+* Laravel (I use v12 in my new projects)
 * JavaScript (vanilla, Modern ES6+), Livewire (latest projects with v3.6), AlpineJS
 * CSS3, SCSS Preprocessor, Tailwind
 * Database planing, architecture and optimization
@@ -19,4 +19,4 @@ As self-employment (RootPixel Design), I build and maintain robust, scalable and
 * Hungarian
 * Croatian
 
-I am always open to discussing new opportunities and collaborations. Feel free to reach out at 'nobo.vajda' on my Gmail.
+I'm always open to discussing new opportunities and collaborations. Feel free to reach out at 'nobo.vajda' on my Gmail.
