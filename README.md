@@ -7,9 +7,9 @@ I have 12+ years expertise with PHP (vanilla PHP, various frameworks and CMS sys
 As self-employment (RootPixel Design), I build and maintain robust, scalable and efficient Laravel - mainly in TALL stack - web applications since 2020. I have also exertise in building (with GreenSock's GSAP) full animated - and traditional - landing pages. I also have a lot of experience in refactoring, optimizing, and correcting existing web applications, and configuring webservers and optimize databases - thanks to the fact that I am a system administrator by profession (and business informatics) and have 5+ years of professional experience in this field.
 
 🛠️ **Technologies:**
-* PHP (in 2025, I use v8.4 for every projects)
-* Laravel (I use v12 in my new projects)
-* Livewire (latest projects with v3.6)
+* PHP (since the beginning of 2025, I use v8.4 for every projects)
+* Laravel (I use every time the latest version in my new projects)
+* Livewire (I use every time the latest version in my new projects)
 * Filament (for CMS-like projects, I use v4 already)
 * JavaScript (vanilla, Modern ES6+), AlpineJS
 * CSS3, SCSS Preprocessor, Tailwind
